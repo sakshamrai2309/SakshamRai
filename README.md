@@ -3,7 +3,7 @@
 
 #### 🎉 Updates:
 
-🚀 I’m currently learning Machine learning<br>⭐ Ask me anything about Django<br>⚡ Fun fact: I prefer tabs over spaces
+🚀 I’m currently learning Blockchain<br>⭐ Ask me anything about Django
 
 <!-- saksham -->
 
